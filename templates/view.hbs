@@ -16,7 +16,11 @@
         <tr>
           <td class="align-center">{{name}}</td>
           <td class="align-center">{{slot}}</td>
-          <td>{{icon}}</td>
+          <td class="align-center">
+            <a href="#" download="{{formattedFileName}}.png">
+              <img src="{{{renderImage}}}" width="48" height="48" />
+            </a>
+          </td>
         </tr>
         {{/skills}}
         </tbody>
@@ -39,7 +43,11 @@
           <td class="align-right">{{format_level tier}}</td>
           <td class="align-right">{{index}}</td>
           <td class="align-center">{{name}}</td>
-          <td>{{icon}}</td>
+          <td class="align-center">
+            <a href="#" download="{{formattedFileName}}.png">
+              <img src="{{{renderImage}}}" width="48" height="48" />
+            </a>
+          </td>
         </tr>
         {{/talents}}
         </tbody>

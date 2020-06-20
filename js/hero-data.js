@@ -63,6 +63,16 @@ class HeroData {
   }
 
   /**
+   * @private
+   */
+  _uniqueIconNames() {
+    return Object.values(this.__buttonIconMap).sort().reduce((names, name) => {
+      if (!names.includes(name)) { names.push(name); }
+      return names;
+    }, []);
+  }
+
+  /**
    * @protected
    */
   defaultDataDirectory() {
@@ -72,22 +82,29 @@ class HeroData {
   /**
    * @protected
    */
-  defaultTextFileName() {
+  defaultTextFilename() {
     return `${this.defaultDataDirectory()}/strings.txt`;
   }
 
   /**
    * @protected
    */
-  defaultDataFileName() {
+  defaultDataFilename() {
     return `${this.defaultDataDirectory()}/data.xml`;
+  }
+
+  /**
+   * @protected
+   */
+  defaultImageFilename(filename) {
+    return `${this.defaultDataDirectory()}/icons/${filename}.png`;
   }
 
   /**
    * @private
    */
   _loadText() {
-    const filename = this.opts.textFilename ? this.opts.textFilename : this.defaultTextFileName();
+    const filename = this.opts.textFilename ? this.opts.textFilename : this.defaultTextFilename();
     return fetch(filename)
         .then(response => response.text())
         .then(text => this._textFileToDict(text));
@@ -97,7 +114,7 @@ class HeroData {
    * @private
    */
   _loadData() {
-    const filename = this.opts.dataFilename ? this.opts.dataFilename : this.defaultDataFileName();
+    const filename = this.opts.dataFilename ? this.opts.dataFilename : this.defaultDataFilename();
     return fetch(filename)
         .then(response => response.text())
         .then(text => (new window.DOMParser()).parseFromString(text, 'text/xml'));
@@ -151,8 +168,6 @@ class HeroData {
             icon: this.__buttonIconMap[skillId]
           };
         });
-
-
   }
 
   /**
