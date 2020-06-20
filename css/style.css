@@ -1,0 +1,70 @@
+:root {
+  --background-color: #021032;
+  --main-font-color: #cce6ff;
+  --heading-font-color: #ffffff;
+  --table-font-color: #ffffff;
+}
+
+body {
+  background: var(--background-color);
+  color: var(--main-font-color);
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  color: var(--heading-font-color);
+  text-align: center;
+}
+
+.hero-wrapper {
+
+}
+
+.hero-data {
+  display: flex;
+  flex-direction: row;
+}
+
+.hero-data-column {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 1em 2em;
+}
+
+.info-table {
+  border: thin solid grey;
+  border-collapse: collapse;
+}
+
+.info-table th,
+.info-table td {
+  padding: 0.5em;
+  color: var(--table-font-color);
+}
+
+.info-table thead th {
+  background-color: rgba(0, 0, 0, 0.33);
+}
+
+.info-table tbody tr:nth-of-type(even) {
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.info-table th {
+  text-align: center;
+}
+
+.info-table td {
+  font-size: smaller;
+}
+
+.align-left {
+  text-align: left;
+}
+.align-center {
+  text-align: center;
+}
+.align-right {
+  text-align: right;
+}

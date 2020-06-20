@@ -1,0 +1,90 @@
+Id,Name,Role,Franchise,Release Date,Data File,Text File
+1,Abathur,Support,StarCraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\AbathurData\AbathurData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+2,Arthas,Tank,Warcraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\ArthasData\ArthasData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+3,Diablo,Tank,Diablo,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\DiabloData\DiabloData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+4,E.T.C.,Tank,Warcraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\L90ETCData\L90ETCData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+5,Falstad,Ranged Assassin,Warcraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\FalstadData\FalstadData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+6,Gazlowe,Melee Assassin,Warcraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\TinkerData\TinkerData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+7,Illidan,Melee Assassin,Warcraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\IllidanData\IllidanData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+8,Kerrigan,Melee Assassin,StarCraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\KerriganData\KerriganData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+9,Malfurion,Healer,Warcraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\MalfurionData\MalfurionData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+10,Muradin,Tank,Warcraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\MuradinData\MuradinData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+11,Nazeebo,Ranged Assassin,Diablo,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\WitchDoctorData\WitchDoctorData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+12,Nova,Ranged Assassin,StarCraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\NovaData\NovaData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+13,Raynor,Ranged Assassin,StarCraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\RaynorData\RaynorData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+14,Sgt. Hammer,Ranged Assassin,StarCraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\SgtHammerData\SgtHammerData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+15,Sonya,Bruiser,Diablo,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\BarbarianData\BarbarianData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+16,Stitches,Tank,Warcraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\StitchesData\StitchesData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+17,Tassadar,Ranged Assassin,StarCraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\TassadarData\TassadarData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+18,Tyrael,Tank,Diablo,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\TyraelData\TyraelData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+19,Tyrande,Healer,Warcraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\TyrandeData\TyrandeData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+20,Uther,Healer,Warcraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\UtherData\UtherData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+21,Valla,Ranged Assassin,Diablo,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\DemonHunterData\DemonHunterData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+22,Zeratul,Melee Assassin,StarCraft,2014-03-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\ZeratulData\ZeratulData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+23,Tychus,Ranged Assassin,StarCraft,2014-03-18,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\TychusData\TychusData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+24,Brightwing,Healer,Warcraft,2014-04-15,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\BrightwingData\BrightwingData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+25,Li Li,Healer,Warcraft,2014-04-15,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\LiliData\LiliData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+26,Murky,Melee Assassin,Warcraft,2014-05-22,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\MurkyData\MurkyData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+27,Zagara,Ranged Assassin,StarCraft,2014-06-26,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\ZagaraData\ZagaraData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+28,Rehgar,Healer,Warcraft,2014-07-23,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\RehgarData\RehgarData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+29,Chen,Bruiser,Warcraft,2014-09-10,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\ChenData\ChenData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+30,Anub'arak,Tank,Warcraft,2014-10-07,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\AnubarakData\AnubarakData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+31,Azmodan,Ranged Assassin,Diablo,2014-10-07,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\AzmodanData\AzmodanData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+32,Jaina,Ranged Assassin,Warcraft,2014-12-02,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\JainaData\JainaData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+33,Thrall,Bruiser,Warcraft,2015-01-13,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\ThrallData\ThrallData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+34,The Lost Vikings,Support,The Lost Vikings,2015-02-10,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\LostVikingsData\LostVikingsData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+35,Sylvanas,Ranged Assassin,Warcraft,2015-03-24,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\SylvanasData\SylvanasData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+36,Kael'thas,Ranged Assassin,Warcraft,2015-05-12,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\KaelthasData\KaelthasData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+37,Johanna,Tank,Diablo,2015-06-02,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\CrusaderData\CrusaderData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+38,The Butcher,Melee Assassin,Diablo,2015-06-30,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\ButcherData\ButcherData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+39,Leoric,Bruiser,Diablo,2015-07-21,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\LeoricData\LeoricData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+40,Kharazim,Healer,Diablo,2015-08-18,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\MonkData\MonkData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+41,Rexxar,Bruiser,Warcraft,2015-09-08,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\RexxarData\RexxarData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+42,Lt. Morales,Healer,StarCraft,2015-10-06,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\MedicData\MedicData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+43,Artanis,Bruiser,StarCraft,2015-10-20,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\ArtanisData\ArtanisData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+44,Cho,Tank,Warcraft,2015-11-11,mods\heromods\chogall.stormmod\base.stormdata\GameData\ChoGallData.xml,mods\heromods\chogall.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+45,Gall,Ranged Assassin,Warcraft,2015-11-11,mods\heromods\chogall.stormmod\base.stormdata\GameData\ChoGallData.xml,mods\heromods\chogall.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+46,Lunara,Ranged Assassin,Warcraft,2015-12-15,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\DryadData\DryadData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+47,Greymane,Ranged Assassin,Warcraft,2016-01-12,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\GennData\GennData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+48,Li-Ming,Ranged Assassin,Diablo,2016-02-02,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\WizardData\WizardData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+49,Xul,Bruiser,Diablo,2016-03-01,mods\heroesdata.stormmod\base.stormdata\GameData\Heroes\NecromancerData\NecromancerData.xml,mods\heroesdata.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+50,Dehaka,Bruiser,StarCraft,2016-03-29,mods\heromods\dehaka.stormmod\base.stormdata\GameData\DehakaData.xml,mods\heromods\dehaka.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+51,Tracer,Ranged Assassin,Overwatch,2016-04-19,mods\heromods\tracer.stormmod\base.stormdata\GameData\TracerData.xml,mods\heromods\tracer.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+52,Chromie,Ranged Assassin,Warcraft,2016-05-17,mods\heromods\chromie.stormmod\base.stormdata\GameData\ChromieData.xml,mods\heromods\chromie.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+53,Medivh,Support,Warcraft,2016-06-14,mods\heromods\medivh.stormmod\base.stormdata\GameData\MedivhData.xml,mods\heromods\medivh.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+54,Gul'dan,Ranged Assassin,Warcraft,2016-07-12,mods\heromods\guldan.stormmod\base.stormdata\GameData\GuldanData.xml,mods\heromods\guldan.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+55,Auriel,Healer,Diablo,2016-08-09,mods\heromods\auriel.stormmod\base.stormdata\GameData\AurielData.xml,mods\heromods\auriel.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+56,Alarak,Melee Assassin,StarCraft,2016-09-13,mods\heromods\alarak.stormmod\base.stormdata\GameData\AlarakData.xml,mods\heromods\alarak.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+57,Zarya,Support,Overwatch,2016-09-27,mods\heromods\zarya.stormmod\base.stormdata\GameData\ZaryaData.xml,mods\heromods\zarya.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+58,Samuro,Melee Assassin,Warcraft,2016-10-18,mods\heromods\samuro.stormmod\base.stormdata\GameData\SamuroData.xml,mods\heromods\samuro.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+59,Varian,Bruiser,Warcraft,2016-11-15,mods\heromods\varian.stormmod\base.stormdata\GameData\VarianData.xml,mods\heromods\varian.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+60,Ragnaros,Bruiser,Warcraft,2016-12-14,mods\heromods\thefirelords.stormmod\base.stormdata\GameData\TheFirelordsData.xml,mods\heromods\thefirelords.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+61,Zul'jin,Ranged Assassin,Warcraft,2017-01-04,mods\heromods\zuljin.stormmod\base.stormdata\GameData\ZuljinData.xml,mods\heromods\zuljin.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+62,Valeera,Melee Assassin,Warcraft,2017-01-24,mods\heromods\valeera.stormmod\base.stormdata\GameData\ValeeraData.xml,mods\heromods\valeera.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+63,Lúcio,Healer,Overwatch,2017-02-14,mods\heromods\lucio.stormmod\base.stormdata\GameData\LucioData.xml,mods\heromods\lucio.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+64,Probius,Ranged Assassin,StarCraft,2017-03-14,mods\heromods\probius.stormmod\base.stormdata\GameData\ProbiusData.xml,mods\heromods\probius.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+65,Cassia,Ranged Assassin,Diablo,2017-04-04,mods\heromods\amazon.stormmod\base.stormdata\GameData\AmazonData.xml,mods\heromods\amazon.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+66,Genji,Ranged Assassin,Overwatch,2017-04-25,mods\heromods\genji.stormmod\base.stormdata\GameData\GenjiData.xml,mods\heromods\genji.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+67,D.Va,Bruiser,Overwatch,2017-05-16,mods\heromods\dva.stormmod\base.stormdata\GameData\DVaData.xml,mods\heromods\dva.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+68,Malthael,Bruiser,Diablo,2017-06-13,mods\heromods\malthael.stormmod\base.stormdata\GameData\MalthaelData.xml,mods\heromods\malthael.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+69,Stukov,Healer,StarCraft,2017-07-11,mods\heromods\stukov.stormmod\base.stormdata\GameData\StukovData.xml,mods\heromods\stukov.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+70,Garrosh,Tank,Warcraft,2017-08-08,mods\heromods\garrosh.stormmod\base.stormdata\GameData\Garrosh.xml,mods\heromods\garrosh.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+71,Kel'Thuzad,Ranged Assassin,Warcraft,2017-09-05,mods\heromods\kelthuzad.stormmod\base.stormdata\GameData\KelThuzad.xml,mods\heromods\kelthuzad.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+72,Ana,Healer,Overwatch,2017-09-26,mods\heromods\ana.stormmod\base.stormdata\GameData\AnaData.xml,mods\heromods\ana.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+73,Junkrat,Ranged Assassin,Overwatch,2017-10-17,mods\heromods\junkrat.stormmod\base.stormdata\GameData\JunkratData.xml,mods\heromods\junkrat.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+74,Alexstrasza,Healer,Warcraft,2017-11-14,mods\heromods\alexstrasza.stormmod\base.stormdata\GameData\AlexstraszaData.xml,mods\heromods\alexstrasza.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+75,Hanzo,Ranged Assassin,Overwatch,2017-12-12,mods\heromods\hanzo.stormmod\base.stormdata\GameData\HanzoData.xml,mods\heromods\hanzo.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+76,Blaze,Tank,StarCraft,2018-01-09,mods\heromods\firebat.stormmod\base.stormdata\GameData\FirebatData.xml,mods\heromods\firebat.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+77,Maiev,Melee Assassin,Warcraft,2018-02-06,mods\heromods\maiev.stormmod\base.stormdata\GameData\MaievData.xml,mods\heromods\maiev.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+78,Fenix,Ranged Assassin,StarCraft,2018-03-27,mods\heromods\fenix.stormmod\base.stormdata\GameData\FenixData.xml,mods\heromods\fenix.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+79,Deckard,Healer,Diablo,2018-04-24,mods\heromods\deckard.stormmod\base.stormdata\GameData\DeckardData.xml,mods\heromods\deckard.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+80,Yrel,Bruiser,Warcraft,2018-06-12,mods\heromods\yrel.stormmod\base.stormdata\GameData\YrelData.xml,mods\heromods\yrel.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+81,Whitemane,Healer,Warcraft,2018-08-07,mods\heromods\whitemane.stormmod\base.stormdata\GameData\WhitemaneData.xml,mods\heromods\whitemane.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+82,Mephisto,Ranged Assassin,Diablo,2018-09-04,mods\heromods\mephisto.stormmod\base.stormdata\GameData\MephistoData.xml,mods\heromods\mephisto.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+83,Mal'Ganis,Tank,Warcraft,2018-10-16,mods\heromods\malganis.stormmod\base.stormdata\GameData\MalGanisData.xml,mods\heromods\malganis.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+84,Orphea,Ranged Assassin,Heroes of the Storm,2018-11-13,mods\heromods\orphea.stormmod\base.stormdata\GameData\OrpheaData.xml,mods\heromods\orphea.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+85,Imperius,Bruiser,Diablo,2019-01-08,mods\heromods\imperius.stormmod\base.stormdata\GameData\ImperiusData.xml,mods\heromods\imperius.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+86,Anduin,Healer,Warcraft,2019-04-30,mods\heromods\anduin.stormmod\base.stormdata\GameData\AnduinData.xml,mods\heromods\anduin.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+87,Qhira,Melee Assassin,Heroes of the Storm,2019-08-06,mods\heromods\nexushunter.stormmod\base.stormdata\GameData\NexusHunterData.xml,mods\heromods\nexushunter.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+88,Deathwing,Bruiser,Warcraft,2019-12-03,mods\heromods\deathwing.stormmod\base.stormdata\GameData\DeathwingData.xml,mods\heromods\deathwing.stormmod\enus.stormdata\LocalizedData\GameStrings.txt
+89,Mei,Tank,Overwatch,2020-06-23,mods\heromods\meiow.stormmod\base.stormdata\GameData\MeiOWData.xml,mods\heromods\meiow.stormmod\enus.stormdata\LocalizedData\GameStrings.txt

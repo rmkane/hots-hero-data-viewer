@@ -1,0 +1,49 @@
+<div class="hero-wrapper">
+  <h1>{{ name }}</h1>
+  <div class="hero-data">
+    <div class="hero-data-column">
+      <h2>Skills</h2>
+      <table class="info-table hero-skill-table">
+        <thead>
+        <tr>
+          <th>Name</th>
+          <th>Slot</th>
+          <th>Icon</th>
+        </tr>
+        </thead>
+        <tbody>
+        {{#skills}}
+        <tr>
+          <td class="align-center">{{name}}</td>
+          <td class="align-center">{{slot}}</td>
+          <td>{{icon}}</td>
+        </tr>
+        {{/skills}}
+        </tbody>
+      </table>
+    </div>
+    <div class="hero-data-column">
+      <h2>Talents</h2>
+      <table class="info-table hero-talent-table">
+        <thead>
+        <tr>
+          <th>Level</th>
+          <th>Index</th>
+          <th>Name</th>
+          <th>Icon</th>
+        </tr>
+        </thead>
+        <tbody>
+        {{#talents}}
+        <tr>
+          <td class="align-right">{{format_level tier}}</td>
+          <td class="align-right">{{index}}</td>
+          <td class="align-center">{{name}}</td>
+          <td>{{icon}}</td>
+        </tr>
+        {{/talents}}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
