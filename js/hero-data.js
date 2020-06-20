@@ -1,10 +1,6 @@
 class HeroData {
   constructor(name, options) {
-    this.opts = Object.assign({
-      dataFilename: null,
-      textFilename: null,
-      callback: null
-    }, options);
+    this.opts = Object.assign({}, HeroData.defaultOptions, options);
 
     this.name = name;
     this.skills = null;
@@ -281,3 +277,9 @@ class HeroData {
         }, {});
   }
 }
+
+HeroData.defaultOptions = {
+  dataFilename: null,
+  textFilename: null,
+  callback: null
+};
